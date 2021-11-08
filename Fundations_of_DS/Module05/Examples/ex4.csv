@@ -1,0 +1,12 @@
+# hey!
+a,b,c,d,message
+# just wanted to make things more difficult for you
+# who reads CSV files with computers, anyway? Right guy?
+1,2,3,,hello
+5,6,7,8,world
+# I'm not your guy, friend!
+# He's not your friend, buddy!
+9,10,11,12,foo
+# I'm not your buddy, guy!
+# He's not your guy, friend!
+# ...
