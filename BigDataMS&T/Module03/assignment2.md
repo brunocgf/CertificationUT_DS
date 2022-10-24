@@ -1,4 +1,5 @@
 ## Assignment 2: Hadoop
+Name: Bruno Cesar Gonzalez
 
 ### Question 1 (6 Marks)
 A colleague has suggested using Hadoop to build a banking system for tracking customers' deposits.  Give three good reasons why this is a *very bad* idea.
@@ -48,6 +49,10 @@ If new data is being stored, it would be impractical to try to lock all the repl
 Which diagram(s) best illustrates a HDFS cluster configuration that has a replication factor of 3 for 3 files.
 
 ![](HDFSClusterAssignmentDiagram.png)
+
+**Answer:**
+a) and c). In both cases, there are 3 copies of each block. Although case a) seems more reasonable, sin all the blocks
+seems more contiguous.
 
 ### Question 7 (2 Marks)
 
@@ -129,6 +134,9 @@ c.
 ```
 d.	None of the options
 
+**Answer:**
+a). This not exactly how the input would look like, but it the most similar. The difference is that it should be a key-value pair
+for each word.
 
 #%%
 
